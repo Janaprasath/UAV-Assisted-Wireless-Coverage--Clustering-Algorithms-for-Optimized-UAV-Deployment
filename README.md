@@ -1,8 +1,8 @@
 # UAV-Assisted Wireless Coverage: Clustering Algorithms for Optimized UAV Deployment
 
 OVERVIEW:
-1.This project implements and analyzes clustering algorithms for optimizing the deployment of Unmanned Aerial Vehicles (UAVs) as wireless communication relays, particularly in scenarios where terrestrial infrastructure is unavailable or compromised (e.g., disaster recovery, rural connectivity, smart cities). 
-2.The focus is on ensuring efficient user coverage, balanced resource allocation, and adherence to operational constraints such as user capacity per UAV.
+-This project implements and analyzes clustering algorithms for optimizing the deployment of Unmanned Aerial Vehicles (UAVs) as wireless communication relays, particularly in scenarios where terrestrial infrastructure is unavailable or compromised (e.g., disaster recovery, rural connectivity, smart cities). 
+-The focus is on ensuring efficient user coverage, balanced resource allocation, and adherence to operational constraints such as user capacity per UAV.
 
 PROBLEM STATEMENT:
 1.UAVs are increasingly deployed as temporary communication relays in challenging environments. However, maximizing their effectiveness requires:
