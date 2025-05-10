@@ -10,9 +10,10 @@ It works in 4 steps:
 
 ![Result of General K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Result%20of%20General%20K-Means%20Clustering%20Algorithm.png)
 
+![Number of users in each cluster determined byGeneral K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
 
-Number of users in each cluster determined by General K-Means Clustering Alogorithm:
-Location of UAV determined by General K-Means Clustering Alogorithm:
+![Location of UAV determined by General K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
+
 
 Drawbacks of General K-Means for UAV Deployment:
 1. Unbalanced clusters: Standard K-Means often creates oversized clusters (>100 users), violating UAV capacity limits (Fig. 3)
