@@ -3,7 +3,7 @@ AGGLOMERATIVE HIERARCHICAL CLUSTERING ALGORITHM:
 -  It uses linkage criteria (e.g., Ward’s method) to determine cluster proximity.
 
 GENERAL AGGLOMERATIVE HIERARCHICAL CLUSTERING ALGORITHM:
-1.Start with each user as its own cluster.
+1. Start with each user as its own cluster.
 2. Compute the pairwise distances between all clusters.
 3. Merge the two clusters with the smallest distance according to the linkage criterion.
 4. Update the distance matrix to reflect the new cluster.
