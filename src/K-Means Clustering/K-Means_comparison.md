@@ -2,7 +2,7 @@ K-MEANS CLUSTERING ALGORITHM:
 - K-Means partitions data into K clusters by iteratively minimizing the distance between points and cluster centroids. 
 
 GENERAL K-MEANS CLUSTERING ALGORITHM:
-It works in 4 steps:
+- It works in 4 steps:
 1. Initialize K random centroids
 2. Assign points to the nearest centroid
 3. Recalculate centroids as cluster means
