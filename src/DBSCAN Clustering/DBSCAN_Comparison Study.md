@@ -7,9 +7,9 @@ It operates in 3 steps:
 2. Expand clusters by connecting density-reachable core points.
 3. Label outliers as noise.
 
-![Result of General DBSCAN Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/General%20DBSCAN%20Clustering%20Algorithm/Result%20of%20General%20DBSCAN%20Clustering%20Algorithm.png)
+![Result of General DBSCAN Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/General%20DBSCAN%20Clustering%20Algorithm/Result%20of%20General%20DBSCAN%20Clustering%20Algorithm.png)
 
-![Number of users in each cluster determined by General DBSCAN Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/General%20DBSCAN%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20General%20DBSCAN%20Clustering%20Algorithm.png)
+![Number of users in each cluster determined by General DBSCAN Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/General%20DBSCAN%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20General%20DBSCAN%20Clustering%20Algorithm.png)
 
 Drawbacks of General DBSCAN for UAV Deployment
 1. Uncontrolled cluster sizes: Density-based merging often creates oversized clusters (e.g.150 users), violating UAV capacity.
@@ -35,12 +35,12 @@ Parameter adaptation	      |     ❌ Fixed eps	           |    ✅ Auto-tunes ep
 - Additionally, it incorporates a function to efficiently manage noise points, reassigning them to appropriate clusters when feasible.
 - A separate function computes centroid values, providing a representative central point for each cluster
 
-![Result of Modified DBSCAN Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Result%20of%20Modified%20DBSCAN%20clustering%20Algorithm.png)
+![Result of Modified DBSCAN Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Result%20of%20Modified%20DBSCAN%20clustering%20Algorithm.png)
 
-![Number of users in each cluster determined by Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20Modified%20DBSCAN%20clustering%20algorithm.png)
+![Number of users in each cluster determined by Modified K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20Modified%20DBSCAN%20clustering%20algorithm.png)
 
 
-![Location of UAV determined by Modified DBSCAN Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20DBSCAN%20clustering%20algorithm.png)
+![Location of UAV determined by Modified DBSCAN Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20DBSCAN%20clustering%20algorithm.png)
 
 - The proposed modified DBSCAN algorithm enforces all specified constraints, effectively addressing the limitations of the standard DBSCAN approach. 
 - By strictly capping each cluster at 100 users, efficiently reassigning noise points to suitable clusters, and computing centroid values, this enhanced method ensures balanced and efficient clustering.
