@@ -8,11 +8,11 @@ GENERAL K-MEANS CLUSTERING ALGORITHM:
 3. Recalculate centroids as cluster means
 4. Repeat until convergence
 
-![Result of General K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Result%20of%20General%20K-Means%20Clustering%20Algorithm.png)
+![Result of General K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Result%20of%20General%20K-Means%20Clustering%20Algorithm.png)
 
-![Number of users in each cluster determined byGeneral K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
+![Number of users in each cluster determined by General K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
 
-![Location of UAV determined by General K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
+![Location of UAV determined by General K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/General%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20General%20K-Means%20Clustering%20Algorithm.png)
 
 
 Drawbacks of General K-Means for UAV Deployment:
@@ -32,11 +32,11 @@ The constraint-aware version addresses these limitations through:
 |  Dynamic cluster count	   |    ❌ Fixed K	    |     ✅ Auto-adjusts         |
 |  Centroid computation	     |    ✅	            |     ✅ Optimized for UAVs   |
 
-![Result of Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Result%20of%20Modified%20K-Means%20Clustering%20Algorithm.png)
+![Result of Modified K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Result%20of%20Modified%20K-Means%20Clustering%20Algorithm.png)
 
 
-![Number of users in each cluster determined by Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20the%20Modified%20K-Means%20Algorithm.png)
+![Number of users in each cluster determined by Modified K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20the%20Modified%20K-Means%20Algorithm.png)
 
-![Location of UAV determined by Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20K-Means%20Clustering%20Algorithm.png)
+![Location of UAV determined by Modified K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20K-Means%20Clustering%20Algorithm.png)
 
 - The proposed algorithm ensures that no cluster exceeds the predefined 100-user limit. Once clustering is complete, centroid values are computed to guide UAV deployment. By adhering to capacity constraints, this enhanced approach optimizes UAV allocation, maximizing operational efficiency and service coverage
