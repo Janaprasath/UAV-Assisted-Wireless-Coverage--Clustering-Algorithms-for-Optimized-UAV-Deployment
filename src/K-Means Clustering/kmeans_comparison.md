@@ -1,5 +1,5 @@
-K-Means Clustering Algorithm:
-K-Means partitions data into K clusters by iteratively minimizing the distance between points and cluster centroids. 
+K-MEANS CLUSTERING ALGORITHM:
+-K-Means partitions data into K clusters by iteratively minimizing the distance between points and cluster centroids. 
 
 GENERAL K-MEANS CLUSTERING ALGORITHM:
 It works in 4 steps:
