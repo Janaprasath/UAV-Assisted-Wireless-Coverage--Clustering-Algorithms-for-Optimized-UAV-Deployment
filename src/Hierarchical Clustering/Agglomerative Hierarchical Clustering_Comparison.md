@@ -36,7 +36,7 @@ Outlier handling	          |     ❌	          |    ✅ Reassigns outliers      
 
 ![Result of Modified Hierarchical Agglomerative Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/Hierarchical%20Clustering/Modified%20Hierarchical%20Clustering%20Algorithm/Result%20of%20Modified%20Agglomerative%20Hierarchical%20Clustering%20Algorithm.png)
 
-![Number of users in each cluster determined by Modified Hierarchical Agglomerative Clustering Alogorithm](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/Hierarchical%20Clustering/Modified%20Hierarchical%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20Agglomerative%20Hierarchical%20Clustering.png)
+![Number of users in each cluster determined by Modified Hierarchical Agglomerative Clustering Alogorithm](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/Hierarchical%20Clustering/Modified%20Hierarchical%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20Modified%20Agglomerative%20Hierarchical%20Clustering%20Algorithm.png)
 
 
 ![Location of UAV determined by General K-Means Clustering Algorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/Hierarchical%20Clustering/Modified%20Hierarchical%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20Agglomerative%20Hierarchical%20Clustering.png)
