@@ -22,7 +22,7 @@ Drawbacks of General K-Means for UAV Deployment:
 4. Spherical bias: Assumes circular clusters, struggling with real-world urban user distributions.
 
 MODIFIED K MEANS CLUSTERING ALGORITHM:
-A modified K-Means approach is proposed to address the issue of clusters exceeding the allowed user limit. This enhanced method incorporates additional constraints during clustering to ensure no cluster surpasses the 100-user threshold.
+- A modified K-Means approach is proposed to address the issue of clusters exceeding the allowed user limit. This enhanced method incorporates additional constraints during clustering to ensure no cluster surpasses the 100-user threshold.
 
 The constraint-aware version addresses these limitations through:
 
@@ -32,3 +32,9 @@ The constraint-aware version addresses these limitations through:
 |  Dynamic cluster count	   |    ❌ Fixed K	    |     ✅ Auto-adjusts         |
 |  Centroid computation	     |    ✅	            |     ✅ Optimized for UAVs   |
 
+![Result of Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Result%20of%20Modified%20K-Means%20Clustering%20Algorithm.png)
+
+
+![Number of users in each cluster determined by Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Number%20of%20users%20in%20each%20cluster%20determined%20by%20the%20Modified%20K-Means%20Algorithm.png)
+
+![Location of UAV determined by Modified K-Means Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/K-Means%20Clustering/Modified%20K-Means%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20K-Means%20Clustering%20Algorithm.png)
