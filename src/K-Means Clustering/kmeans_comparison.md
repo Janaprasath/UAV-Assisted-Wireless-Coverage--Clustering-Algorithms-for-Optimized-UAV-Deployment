@@ -8,7 +8,8 @@ It works in 4 steps:
 3. Recalculate centroids as cluster means
 4. Repeat until convergence
 
-Result of General K-Means Clustering Alogorithm: 
+Result of General K-Means Clustering Alogorithm: ![Alt Text](images/image.jpg)
+
 Number of users in each cluster determined by General K-Means Clustering Alogorithm:
 Location of UAV determined by General K-Means Clustering Alogorithm:
 
