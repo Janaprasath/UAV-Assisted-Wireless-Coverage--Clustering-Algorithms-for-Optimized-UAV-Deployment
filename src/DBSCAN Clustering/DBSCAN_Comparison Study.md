@@ -42,6 +42,6 @@ Parameter adaptation	      |     ❌ Fixed eps	           |    ✅ Auto-tunes ep
 
 ![Location of UAV determined by Modified DBSCAN Clustering Alogorithm:](https://github.com/Janaprasath/UAV-Assisted-Wireless-Coverage--Clustering-Algorithms-for-Optimized-UAV-Deployment/blob/main/src/DBSCAN%20Clustering/Modified%20DBSCAN%20Clustering%20Algorithm/Location%20of%20UAV%20determined%20by%20Modified%20DBSCAN%20clustering%20algorithm.png)
 
--The proposed modified DBSCAN algorithm enforces all specified constraints, effectively addressing the limitations of the standard DBSCAN approach. 
+- The proposed modified DBSCAN algorithm enforces all specified constraints, effectively addressing the limitations of the standard DBSCAN approach. 
 - By strictly capping each cluster at 100 users, efficiently reassigning noise points to suitable clusters, and computing centroid values, this enhanced method ensures balanced and efficient clustering.
 -  As a result, it is well-suited for practical UAV deployment scenarios, where adherence to constraints and optimized clustering outcomes are critical for performance
