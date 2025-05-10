@@ -25,11 +25,10 @@ MODIFIED K MEANS CLUSTERING ALGORITHM:
 A modified K-Means approach is proposed to address the issue of clusters exceeding the allowed user limit. This enhanced method incorporates additional constraints during clustering to ensure no cluster surpasses the 100-user threshold.
 
 The constraint-aware version addresses these limitations through:
-_________________________________________________________________________________
+
 |  Feature	General          |    General K-Means	|      Modified K-Means       |
-_________________________________________________________________________________
+|----------------------------|--------------------|-----------------------------|
 |  Cluster size limit	       |    ❌	            |     ✅ 100-user cap         |
 |  Dynamic cluster count	   |    ❌ Fixed K	    |     ✅ Auto-adjusts         |
 |  Centroid computation	     |    ✅	            |     ✅ Optimized for UAVs   |
-_________________________________________________________________________________
 
